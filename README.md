@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/51258896/131818712-fba5d478-7a4c-4cef-
 ## Credits <a name="credits"></a>
 ### Developer
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/51258896?v=3" width="80px;"/><br /><sub>Ramtin Ehsani</sub>](https://github.com/ramtin-ehsani)<br />[📖](https://github.com/risc-lab/MANET-Emergency-Communication-System/commits?author=ramtin-ehsani) [💻](https://github.com/risc-lab/MANET-Emergency-Communication-System/commits?author=ramtin-ehsani) |
+| [<img src="https://avatars.githubusercontent.com/u/51258896?v=3" width="80px;"/><br /><sub>Ramtin Ehsani</sub>](https://github.com/ramtin-ehsani)<br />[📖](https://github.com/risc-lab/Infrastructure-less-Communication/commits?author=ramtin-ehsani) [💻](https://github.com/risc-lab/Infrastructure-less-Communication/commits?author=ramtin-ehsani) |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
