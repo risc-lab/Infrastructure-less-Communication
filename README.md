@@ -6,8 +6,7 @@
 	- [2.1. Install Requirements](#command)	
 	- [2.2. External Libraries](#lib)
 - [3. Visuals](#visuals)
-- [4. Pseudocode](#pseudocode)
-- [5. Credits](#credits)
+- [4. Credits](#credits)
 
 
 ## Introduction <a name="introduction"></a>
@@ -23,7 +22,11 @@ Run this command in your shell to install the required libraries.
 - [Networkx]
 
 ## Visuals <a name="visuals"></a>
-https://user-images.githubusercontent.com/51258896/131817776-e030938d-9f89-4636-9b9d-c0b42af5f43f.mp4
+
+
+https://user-images.githubusercontent.com/51258896/131818712-fba5d478-7a4c-4cef-aad5-967ffab7e58d.mp4
+
+
 
 
 ## Credits <a name="credits"></a>
