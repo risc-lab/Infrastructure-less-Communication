@@ -1,4 +1,6 @@
 # Infrastructure-less Communication Simulation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5379027.svg)](https://doi.org/10.5281/zenodo.5379027)
+
 
 # Table of contents
 - [1. Introduction](#introduction)
