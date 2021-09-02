@@ -23,7 +23,7 @@ Run this command in your shell to install the required libraries.
 - [Networkx]
 
 ## Visuals <a name="visuals"></a>
-
+https://user-images.githubusercontent.com/51258896/131817776-e030938d-9f89-4636-9b9d-c0b42af5f43f.mp4
 
 
 ## Credits <a name="credits"></a>
